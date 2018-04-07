@@ -1,0 +1,74 @@
+.container-fluid{
+	margin:0;
+	padding: 0;
+	
+}
+.col1{color: white;padding: 20px;}
+.navbar{color:red;}
+p{
+padding: 10px;color: white;
+}
+.col1{background-color: #343A40;}
+
+
+body, html {
+    height: 100%;
+ 
+}
+.bg {
+    /* The image used */
+    background-image: url("bg.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    animation-delay: .6s;
+   display: table;
+  width: 100%;
+
+}
+
+.bg .bg-something {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.parallax-window {
+    height: 100%;
+    background: transparent;
+}
+.container-fluid {
+    text-align: center;
+}
+.icons ul{
+ list-style: none;
+
+}
+.icons li{
+    float: left;
+    text-align: center;
+}
+.col2{
+    padding-top: 30px;
+padding-bottom: 30px;
+
+}
+body, html, .main {
+    height: 100%;
+}
+
+section {
+    min-height: 100%;
+}
+.ppadding{
+    padding: 20px;
+}
+.col4{
+    padding-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
